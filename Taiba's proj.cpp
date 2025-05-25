@@ -1,3 +1,5 @@
+#Taiba Tariq Rana
+#2024
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
