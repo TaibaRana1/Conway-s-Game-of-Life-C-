@@ -1,5 +1,6 @@
-#Taiba Tariq Rana
-#2024
+//Taiba Tariq Rana
+//23i-2618
+//2024
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
